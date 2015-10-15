@@ -1,0 +1,124 @@
+/* Header */
+a{
+	color: black;
+}
+h1 {
+  margin: 5% 0;
+  font-size: 2.5em;
+}
+h4{
+	font-size: 100%;
+	font-weight: bolder;
+}
+.inline-block{
+	display: inline-block;
+}
+div[class="glyphicon glyphicon-home"]{
+	margin-right: 1%;
+	color: #000;
+}
+.mtr-5{
+	margin: 5% 5% 0 0;
+}
+input, button{
+	margin: 7% 2% 0 0;
+	border: 1px solid black;
+}
+input{
+	box-shadow: none;
+}
+button{
+	border-radius: 4px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+/*Section 1*/
+.subtitle{
+	background-color: gray;
+	color: #fff;
+	width: 30%;
+}
+h5{
+	padding: 3%;
+	font-weight: bolder;
+}
+.date{
+	color: gray;
+	font-size: 80%;
+}
+.link{
+	text-decoration: 
+}
+.ml-10{
+	margin-left: 10%;
+}
+.ml-1{
+	margin-left: 1%;
+}
+.subtitle2{
+	background-color: #333;
+	color: #fff;
+	width: 20%;
+}
+.photo{
+	background-color: gray;
+	padding: 15%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+/*Comienza segunda columna*/
+.bggray{
+	background-color: #c7c7c7;
+	width: 100%;
+	height: auto;
+}
+.plr-3{
+	padding: 0 3%;
+}
+video{
+	width: 99.5%;
+}
+.ml-30{
+	margin-left: 30%;
+}
+.mt-10{
+	margin-top: 10%;
+}
+.squaredate{
+	background-color: #b4b4b4;
+	width: 20%;
+	height: auto;
+	padding: 5% 0;
+	line-height: 25%; 
+}
+h3{
+	font-size: 130%;
+	font-weight: bolder;
+}
+/*Comienza tercera columna*/
+.list{
+	line-height: 20%;
+	font-size: 80%;
+}
+h2{
+	font-size: 130%;
+	font-weight: lighter;
+	line-height: 15%;
+}
+.bggray2{
+	background-color: #e3e3e3;
+	width: 100%;
+	height: 150%;
+}
+.border{
+	border: 1px solid #e3e3e3;
+}
+/*Footer*/
+.linefooter{
+	background-color: gray;
+	border: 5px solid gray;
+}
+.mr{
+	margin-right: -10%;
+}
